@@ -23,3 +23,5 @@ Libraries used:
     * Open scrapper.py and change the values in ```Symbols```
 2. Changing the portfolio value:
     * Open main.py and change the value of ```portfolio_val```. It is set at $5000 by default.
+3. Change the start and end date of the data scrapped:
+    * Open scrapper.py and chnage the values of ```start``` and ```end```. It is set for the past 5 years by default.
