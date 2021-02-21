@@ -28,7 +28,7 @@ Libraries used:
 
 # Images:
 
-![scrapper.py](https://octodex.github.com/images/yaktocat.png)
-![scrapper.py](https://octodex.github.com/images/yaktocat.png)
-![main.py](https://octodex.github.com/images/yaktocat.png)
+![scrapper.py](https://imgur.com/Fmn0vxh)
+![scrapper.py](https://imgur.com/C2BBmna)
+![main.py](https://imgur.com/gAVXeMJ)
 
