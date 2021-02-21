@@ -75,4 +75,4 @@ if __name__=="__main__":
     #print("\nDiscrete Allocation: ", allocation)
     print("\nFunds remaining: $", leftover)
     #print(cleaned_weights)
-    ef.portfolio_performance(verbose=False)
+    ef.portfolio_performance(verbose=True)
