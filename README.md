@@ -25,3 +25,10 @@ Libraries used:
     * Open main.py and change the value of ```portfolio_val```. It is set at $5000 by default.
 3. Change the start and end date of the data scrapped:
     * Open scrapper.py and chnage the values of ```start``` and ```end```. It is set for the past 5 years by default.
+
+# Images:
+
+![scrapper.py](https://octodex.github.com/images/yaktocat.png)
+![scrapper.py](https://octodex.github.com/images/yaktocat.png)
+![main.py](https://octodex.github.com/images/yaktocat.png)
+
