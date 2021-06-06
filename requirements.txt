@@ -37,6 +37,6 @@ scipy==1.6.1
 scs==2.1.2
 six==1.15.0
 toml==0.10.2
-urllib3==1.26.3
+urllib3==1.26.5
 wrapt==1.12.1
 yfinance==0.1.55
